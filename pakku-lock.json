@@ -540,7 +540,7 @@
             ]
         },
         {
-            "pakku_id": "fdgUvZRPVI8Zx0zf",
+            "pakku_id": "JtpdXFKdESWesHDk",
             "type": "MOD",
             "slug": {
                 "curseforge": "canary"
@@ -2342,43 +2342,6 @@
                     ],
                     "size": 884667,
                     "date_published": "2025-02-14T12:59:30.143Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "ZcyHqFjxEunrhHsp",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "create-oxidized"
-            },
-            "name": {
-                "curseforge": "Create: Oxidized"
-            },
-            "id": {
-                "curseforge": "953729"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "create_oxidized-0.1.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4986/573/create_oxidized-0.1.1.jar",
-                    "id": "4986573",
-                    "parent_id": "953729",
-                    "hashes": {
-                        "sha1": "d626144a6a9ca87971647995fe942e78bbcea188",
-                        "md5": "3de5022304c5ed0b198a10f4d8480c7d"
-                    },
-                    "required_dependencies": [],
-                    "size": 116479,
-                    "date_published": "2023-12-27T10:27:30.173Z"
                 }
             ]
         },
