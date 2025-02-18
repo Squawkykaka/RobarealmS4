@@ -1,0 +1,7 @@
+{
+  "name": "Robaream S4",
+  "version": "dev",
+  "description": "A modpack for S4 of the robarealm SMP",
+  "author": "Robadoin",
+  "overrides": ["configureddefaults", "kubejs"]
+}
