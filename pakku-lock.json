@@ -3000,42 +3000,6 @@
             ]
         },
         {
-            "pakku_id": "OljdgY8fHm4Nfwuf",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "essential-mod"
-            },
-            "name": {
-                "curseforge": "Essential Mod"
-            },
-            "id": {
-                "curseforge": "546670"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "essential_1-3-5-7_forge_1-20-1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6160/560/essential_1-3-5-7_forge_1-20-1.jar",
-                    "id": "6160560",
-                    "parent_id": "546670",
-                    "hashes": {
-                        "sha1": "93e013e485f163f332899a791a0286c4f76fbc15",
-                        "md5": "ba1f8e3ce3f1670509b8d191a743d922"
-                    },
-                    "required_dependencies": [],
-                    "size": 52860498,
-                    "date_published": "2025-02-05T13:52:24.903Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "jG2uVMRYuek8FzLt",
             "type": "MOD",
             "slug": {
@@ -4103,44 +4067,6 @@
                     "required_dependencies": [],
                     "size": 821631,
                     "date_published": "2025-01-26T00:47:23.323Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "AEubP338aFngIhbX",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "mods-optimizer"
-            },
-            "name": {
-                "curseforge": "Mods Optimizer"
-            },
-            "id": {
-                "curseforge": "947247"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "mods_optimizer-forge-1.20.1-2.0.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5136/193/mods_optimizer-forge-1.20.1-2.0.0.jar",
-                    "id": "5136193",
-                    "parent_id": "947247",
-                    "hashes": {
-                        "sha1": "ba579846efb91e7292c3a9a881933cc7e7c26926",
-                        "md5": "47a1e86c3ba1dd8b7d8592a46efe7b6c"
-                    },
-                    "required_dependencies": [],
-                    "size": 193254,
-                    "date_published": "2024-02-25T19:14:50.187Z"
                 }
             ]
         },
@@ -5973,6 +5899,48 @@
                     ],
                     "size": 2439693,
                     "date_published": "2024-08-04T17:08:06.903Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "dagZ05ezNKY43sBN",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "e4mc"
+            },
+            "name": {
+                "curseforge": "e4mc"
+            },
+            "id": {
+                "curseforge": "849519"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "e4mc_minecraft-forge-5.2.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5745/589/e4mc_minecraft-forge-5.2.1.jar",
+                    "id": "5745589",
+                    "parent_id": "849519",
+                    "hashes": {
+                        "sha1": "a7b2dd11a75b47b87b5f549ea6f1ad821f47edaa",
+                        "md5": "786e99fc5e1a86a5d0fd3bc029b4da8b"
+                    },
+                    "required_dependencies": [],
+                    "size": 616856,
+                    "date_published": "2024-09-22T08:56:22.510Z"
                 }
             ]
         },
