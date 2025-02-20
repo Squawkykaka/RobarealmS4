@@ -881,6 +881,42 @@
             ]
         },
         {
+            "pakku_id": "BBMoDog1nRLOoewc",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "configured-defaults"
+            },
+            "name": {
+                "curseforge": "Configured Defaults [Forge & Fabric]"
+            },
+            "id": {
+                "curseforge": "930131"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ConfiguredDefaults-v8.0.4-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6060/24/ConfiguredDefaults-v8.0.4-1.20.1-Forge.jar",
+                    "id": "6060024",
+                    "parent_id": "930131",
+                    "hashes": {
+                        "sha1": "4ce4e836cc837a9b99dd1a9119260c640a4b5240",
+                        "md5": "344e3a4599ad289fb1d0554f963f3031"
+                    },
+                    "required_dependencies": [],
+                    "size": 42866,
+                    "date_published": "2025-01-06T17:30:50.613Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "VqYFTdIblHteAB6b",
             "pakku_links": [
                 "LOySuC0WySmn2AYf"
@@ -1000,6 +1036,43 @@
                     ],
                     "size": 376502,
                     "date_published": "2024-12-04T05:38:15.863Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "a3loHgyN3LkO1q9m",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "crash-assistant"
+            },
+            "name": {
+                "curseforge": "Crash Assistant"
+            },
+            "id": {
+                "curseforge": "1154099"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "crash_assistant-forge-1.3.9.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6204/812/crash_assistant-forge-1.3.9.jar",
+                    "id": "6204812",
+                    "parent_id": "1154099",
+                    "hashes": {
+                        "sha1": "a2d99a321552fba357340bd01d319a33707a85b6",
+                        "md5": "66143c667b5ed129f2272806808f2974"
+                    },
+                    "required_dependencies": [],
+                    "size": 3253053,
+                    "date_published": "2025-02-17T22:49:49.840Z"
                 }
             ]
         },
@@ -3061,44 +3134,6 @@
             ]
         },
         {
-            "pakku_id": "mzIyHoPNpEW3YgPe",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "fps-reducer"
-            },
-            "name": {
-                "curseforge": "FPS Reducer"
-            },
-            "id": {
-                "curseforge": "280294"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "FpsReducer2-forge-1.20-2.5.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4586/784/FpsReducer2-forge-1.20-2.5.jar",
-                    "id": "4586784",
-                    "parent_id": "280294",
-                    "hashes": {
-                        "sha1": "d7d5af20faa2bd7012aa2d34b5804324aa273092",
-                        "md5": "667e0ad36f07af69e285d47624b1d084"
-                    },
-                    "required_dependencies": [],
-                    "size": 125347,
-                    "date_published": "2023-06-14T16:09:02.177Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "MvNGP4Y76HbJMiN7",
             "type": "MOD",
             "slug": {
@@ -3875,45 +3910,6 @@
             ]
         },
         {
-            "pakku_id": "d84EY1GZEXa5wyLS",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "lmft"
-            },
-            "name": {
-                "curseforge": "Load My F***ing Tags"
-            },
-            "id": {
-                "curseforge": "656346"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "lmft-1.0.4+1.20.1-forge.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4892/299/lmft-1.0.4+1.20.1-forge.jar",
-                    "id": "4892299",
-                    "parent_id": "656346",
-                    "hashes": {
-                        "sha1": "e44a12eb51813b16faaab89b8073ec63c746c1b0",
-                        "md5": "b6fef15e42caec14db87f5aa498233e8"
-                    },
-                    "required_dependencies": [],
-                    "size": 178625,
-                    "date_published": "2023-11-23T00:33:22.407Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "GckUyh66rpoYUZsT",
             "pakku_links": [
                 "LOySuC0WySmn2AYf"
@@ -4680,43 +4676,6 @@
                     ],
                     "size": 462966,
                     "date_published": "2023-11-03T12:30:32.767Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "I5T5fF040BbinnBy",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "reforgedplay-mod"
-            },
-            "name": {
-                "curseforge": "ReForgedPlay [replay mod on (neo)forge]"
-            },
-            "id": {
-                "curseforge": "1018692"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "reforgedplaymod-1.20.1-0.3.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5637/596/reforgedplaymod-1.20.1-0.3.1.jar",
-                    "id": "5637596",
-                    "parent_id": "1018692",
-                    "hashes": {
-                        "sha1": "37b714750d0e5487b488b29ff1e1623e5bb18ed6",
-                        "md5": "a1fe7a8cba5fec900fb61689fb67fb74"
-                    },
-                    "required_dependencies": [],
-                    "size": 16661938,
-                    "date_published": "2024-08-17T13:52:58.567Z"
                 }
             ]
         },
@@ -5857,6 +5816,129 @@
                     "required_dependencies": [],
                     "size": 931860,
                     "date_published": "2024-12-13T08:18:53.190Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bK998aJDjb1sJKbc",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "yungs-api"
+            },
+            "name": {
+                "curseforge": "YUNG's API (Forge)"
+            },
+            "id": {
+                "curseforge": "421850"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "YungsApi-1.20-Forge-4.0.6.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5769/971/YungsApi-1.20-Forge-4.0.6.jar",
+                    "id": "5769971",
+                    "parent_id": "421850",
+                    "hashes": {
+                        "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+                        "md5": "fe79f43dba8edbb8ede99f4e358e5b0c"
+                    },
+                    "required_dependencies": [],
+                    "size": 370524,
+                    "date_published": "2024-09-30T06:13:49.387Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xzyerMsBKX6hqx3J",
+            "pakku_links": [
+                "bK998aJDjb1sJKbc"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "yungs-better-nether-fortresses"
+            },
+            "name": {
+                "curseforge": "YUNG's Better Nether Fortresses (Forge)"
+            },
+            "id": {
+                "curseforge": "817651"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5193/465/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+                    "id": "5193465",
+                    "parent_id": "817651",
+                    "hashes": {
+                        "sha1": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a",
+                        "md5": "8f0011690923efb6e2d59514181f0bc9"
+                    },
+                    "required_dependencies": [
+                        "421850"
+                    ],
+                    "size": 619255,
+                    "date_published": "2024-03-18T23:17:07.673Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "JIbpRlW5s7QmtmAM",
+            "pakku_links": [
+                "bK998aJDjb1sJKbc"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "yungs-better-strongholds"
+            },
+            "name": {
+                "curseforge": "YUNG's Better Strongholds (Forge)"
+            },
+            "id": {
+                "curseforge": "465575"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4769/83/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+                    "id": "4769083",
+                    "parent_id": "465575",
+                    "hashes": {
+                        "sha1": "3730238c56edca4bb5b2238e1314aec572ced385",
+                        "md5": "8c00ed5d2bab232040a1d4d0ef746ae6"
+                    },
+                    "required_dependencies": [
+                        "421850"
+                    ],
+                    "size": 473564,
+                    "date_published": "2023-09-25T20:59:25.073Z"
                 }
             ]
         },
