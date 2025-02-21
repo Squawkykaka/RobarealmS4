@@ -4607,6 +4607,48 @@
             ]
         },
         {
+            "pakku_id": "DdMzul95lI0TBwSf",
+            "pakku_links": [
+                "I1sfEQNWRYoJx0vQ"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "probejs"
+            },
+            "name": {
+                "curseforge": "ProbeJS"
+            },
+            "id": {
+                "curseforge": "585406"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "probejs-5.9.3-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5054/324/probejs-5.9.3-forge.jar",
+                    "id": "5054324",
+                    "parent_id": "585406",
+                    "hashes": {
+                        "sha1": "b4df2521d131dcaa58c5d8c9119aee28d8b264ea",
+                        "md5": "e04383b7da93ef54f595023297e997bc"
+                    },
+                    "required_dependencies": [
+                        "238086"
+                    ],
+                    "size": 850888,
+                    "date_published": "2024-01-23T13:10:18.970Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9PyuTzmfnJUrOGD0",
             "type": "MOD",
             "slug": {
