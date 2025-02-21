@@ -3172,51 +3172,9 @@
             ]
         },
         {
-            "pakku_id": "pddN4hcYJAsaiNBe",
-            "pakku_links": [
-                "wKeqUypFtlFgcPj7"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "fastfurnace"
-            },
-            "name": {
-                "curseforge": "FastFurnace"
-            },
-            "id": {
-                "curseforge": "299540"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "FastFurnace-1.20.1-8.0.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5181/98/FastFurnace-1.20.1-8.0.2.jar",
-                    "id": "5181098",
-                    "parent_id": "299540",
-                    "hashes": {
-                        "sha1": "b144b8599acd3fac3f8f9d31fa217a4a5b942f61",
-                        "md5": "48b8d2df29ea216a625928e29a6434da"
-                    },
-                    "required_dependencies": [
-                        "283644"
-                    ],
-                    "size": 6170,
-                    "date_published": "2024-03-14T05:38:15.720Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "lE8BB9pOqtYrWscS",
             "pakku_links": [
-                "wKeqUypFtlFgcPj7"
+                "zv1dGdv1gqmbFqOb"
             ],
             "type": "MOD",
             "slug": {
@@ -4533,7 +4491,7 @@
             ]
         },
         {
-            "pakku_id": "wKeqUypFtlFgcPj7",
+            "pakku_id": "zv1dGdv1gqmbFqOb",
             "type": "MOD",
             "slug": {
                 "curseforge": "placebo"
